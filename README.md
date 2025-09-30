@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 # 👋 Olá, eu sou João Evangelista!
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** apaixonado por tecnologia e aprendizado constante. Atualmente, aprofundo meus estudos em programação de sistemas de informação, dados e ciência de dados. Sou fascinado pelo poder dos dados para gerar soluções inteligentes e impactar positivamente o mundo!
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** 
+Apaixonado por tecnologia e aprendizado constante. Atualmente, aprofundo meus estudos em programação de sistemas de informação e ciência de dados. Sou fascinado pelo poder dos dados para gerar soluções inteligentes e impactar positivamente o mundo!
 
 ## 🚀 Principais habilidades
 
